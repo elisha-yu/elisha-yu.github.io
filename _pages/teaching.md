@@ -11,7 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-
+### Instructor – Baruch College
+* ACC 3000 Financial Accounting I	- Spring 2025
+    * Instructor Rating: 4.5/5.0
+  
 ### Instructor – Cornell University
 * NCC 5500 Financial Accounting	- Fall 2022
     * Instructor Rating: 4.7/5.0
