@@ -15,7 +15,7 @@ author_profile: true
   * <em>Journal of Accounting and Economics</em>, Forthcoming          
   * Abstract: Building on economic theories of cultural transmission, we examine how audit partners’ cultural trust influences audit outcomes. Based on the “presumptive doubt” perspective of professional skepticism, we propose that audit partners from trusting cultures are more likely to rely on management’s assertions, while still exercising a high degree of caution and not naively trusting management. Consistent with our prediction, we find that audit partners from trusting cultures commit fewer Type I errors when issuing going concern opinions, without significantly increasing Type II errors. The reduction in Type I errors is primarily found when audit partners normally tend to be more conservative, and it is attenuated when management is less trustworthy. At the same time, audit partners from trusting cultures are also associated with more within-GAAP earnings management, suggesting that increased trust entails a cost. Collectively, our findings offer new insights into how cultural trust affects the assurance of accounting information.
 
-**Working Papers**
+**Working Papers** 
 
 * **"Real Earnings Management and Innovation Externalization: Evidence from Corporate Venture Capital"** 
   *  Dissertation
